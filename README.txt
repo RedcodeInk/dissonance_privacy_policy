@@ -1,4 +1,5 @@
-# dissonance_privacy_policy
+dissonance_privacy_policy
+
 Privacy Policy for Dissonance
 Effective Date: 2nd April, 2025
 1. Introduction
